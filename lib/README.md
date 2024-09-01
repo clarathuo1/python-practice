@@ -1,4 +1,4 @@
-# Python Coding Assessment
+# Python Fundamentals
 
 ## Overview
 
@@ -40,16 +40,7 @@ This repository contains the solution to a Python coding assessment, which tests
 
 3. **Run the Code**
 
-    You can run each function or class interactively in a Python shell or script. For example:
-
-    ```python
-    from your_module import add_numbers, Car
-
-    print(add_numbers(5, 3))  # Output: 8
-
-    my_car = Car('Toyota', 'Corolla', 2020)
-    my_car.display_info()  # Output: 2020 Toyota Corolla
-    ```
+    You can run each function or class interactively in a Python shell or script. 
 
 4. **Testing**
 
